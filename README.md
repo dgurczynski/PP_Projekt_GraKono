@@ -1,4 +1,4 @@
-# ProjektPP_GraKono
+# PP_Projekt_GraKono
 
 Konsolowa implementacja strategicznej gry planszowej **Kono** (rozmiar 4x4), stworzona w języku C++. Projekt umożliwia rozgrywkę gracza z botem w trybie tekstowym.
 
